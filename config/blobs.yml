@@ -1,5 +1,5 @@
 ---
-nodejs-buildpack/nodejs_buildpack-cached-v1.5.31-234423c.zip:
-  object_id: nodejs_buildpack-cached-v1.5.31-234423c.zip
-  sha: 234423c212bb5b9e4cf29c9d79d6930d56c06406
-  size: 92374790
+nodejs-buildpack/nodejs_buildpack-cached-v1.5.33-c358cee.zip:
+  object_id: nodejs_buildpack-cached-v1.5.33-c358cee.zip
+  sha: c358ceeef07fbe77f9d95436d49689248d78932e
+  size: 64018458
