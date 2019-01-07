@@ -1,4 +1,4 @@
 ---
 name: nodejs-buildpack
 files:
-- nodejs-buildpack/nodejs_buildpack-*.zip
+- nodejs-buildpack/nodejs-buildpack-*.zip
