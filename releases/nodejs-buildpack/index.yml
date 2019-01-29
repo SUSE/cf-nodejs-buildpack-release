@@ -13,4 +13,6 @@ builds:
     version: 1.6.37.1
   c47756eb-53f3-4741-738f-cc8c0fedb5d8:
     version: 1.6.34.1
+  d837e234-832a-472a-519b-5a624c3ab15c:
+    version: 1.6.42.1
 format-version: "2"
