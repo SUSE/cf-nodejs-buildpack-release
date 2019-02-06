@@ -1,5 +1,5 @@
 ---
-nodejs-buildpack/nodejs-buildpack-v1.6.42.1-2.1-8c09954b.zip:
-  size: 4824346
-  object_id: nodejs-buildpack-v1.6.42.1-2.1-8c09954b.zip
-  sha: 8c09954bf229cd864684c56c11f795ac9a7af543
+nodejs-buildpack/nodejs-buildpack-v1.6.43.1-1.1-b5ccd7b1.zip:
+  size: 4824421
+  object_id: nodejs-buildpack-v1.6.43.1-1.1-b5ccd7b1.zip
+  sha: b5ccd7b1c3611777a95aa64ca14b8a0f0b626b2e
