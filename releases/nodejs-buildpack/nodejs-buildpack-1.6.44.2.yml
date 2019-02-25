@@ -1,0 +1,19 @@
+name: nodejs-buildpack
+version: 1.6.44.2
+commit_hash: 5a9a593
+uncommitted_changes: false
+jobs:
+- name: nodejs-buildpack
+  version: aa6066bb57b523ad80c31c48062e7eed6b3445e4
+  fingerprint: aa6066bb57b523ad80c31c48062e7eed6b3445e4
+  sha1: 634460bab1d94098496f79e8ebff1494b504d1a2
+packages:
+- name: nodejs-buildpack
+  version: ddd1e54827994d34a92c86c82c657a9f9d3a3f2b
+  fingerprint: ddd1e54827994d34a92c86c82c657a9f9d3a3f2b
+  sha1: 3f2c58323b8da8c4937ec4e3f3ee4bef68f1e597
+  dependencies: []
+license:
+  version: 7725ac7dc50785f51b86fe5de3e0fdc982ac1547
+  fingerprint: 7725ac7dc50785f51b86fe5de3e0fdc982ac1547
+  sha1: b473c668beb53d112230d8b5c32b299cab874007
