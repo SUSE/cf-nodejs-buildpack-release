@@ -1,0 +1,4 @@
+---
+name: nodejs-buildpack-sle15
+files:
+- nodejs-buildpack/nodejs-buildpack-sle15-*.zip

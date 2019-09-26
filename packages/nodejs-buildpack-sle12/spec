@@ -1,0 +1,4 @@
+---
+name: nodejs-buildpack-sle12
+files:
+- nodejs-buildpack/nodejs-buildpack-sle12-*.zip
