@@ -3,7 +3,6 @@ name: nodejs-buildpack
 templates: {}
 
 packages:
-- nodejs-buildpack-sle12
 - nodejs-buildpack-sle15
 
 properties: {}
