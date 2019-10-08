@@ -1,5 +1,5 @@
 ---
-final_name: nodejs-buildpack
+final_name: suse-nodejs-buildpack
 blobstore:
   provider: s3
   options:
