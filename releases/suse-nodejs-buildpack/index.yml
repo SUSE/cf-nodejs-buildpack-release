@@ -13,4 +13,6 @@ builds:
     version: 1.6.56.1
   b1c89950-5b29-4d1e-48fa-f2cb4262d5de:
     version: 1.7.1.1
+  f3e277c1-fb3e-4ba9-41ff-02e560c7c2b6:
+    version: 1.7.7.1
 format-version: "2"
