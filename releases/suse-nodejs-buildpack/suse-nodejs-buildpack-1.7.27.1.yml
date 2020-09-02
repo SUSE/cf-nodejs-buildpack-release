@@ -1,0 +1,21 @@
+name: suse-nodejs-buildpack
+version: 1.7.27.1
+commit_hash: 672ba8b
+uncommitted_changes: false
+jobs:
+- name: suse-nodejs-buildpack
+  version: 2718347b13d9c0859acc97f4d1e45b84668980ab704c9b557540ac2cdad3ef18
+  fingerprint: 2718347b13d9c0859acc97f4d1e45b84668980ab704c9b557540ac2cdad3ef18
+  sha1: sha256:a414c6e5a83d8c10792e5006b1224c609e2f340cbd8e1c0d8c611146412913a8
+  packages:
+  - nodejs-buildpack-sle15
+packages:
+- name: nodejs-buildpack-sle15
+  version: 0c53f200c77022cfa9800394ea04c611737007477bf98ea3d9800a15b63f8d3f
+  fingerprint: 0c53f200c77022cfa9800394ea04c611737007477bf98ea3d9800a15b63f8d3f
+  sha1: sha256:2012ce4d7f5b207399a61c085b1a2d149b89bf1a9dfb3b432b6d647a2a53e57d
+  dependencies: []
+license:
+  version: e38d0f5837a8e2137edde2e18fd4cfbf84a52abe6e9946eeed14610adfb75b88
+  fingerprint: e38d0f5837a8e2137edde2e18fd4cfbf84a52abe6e9946eeed14610adfb75b88
+  sha1: sha256:efe7503dc8eff4f5e471050416045194237af681ed113d2b8774a6ad1ab593df
