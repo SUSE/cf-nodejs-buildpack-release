@@ -1,5 +1,5 @@
 ---
-nodejs-buildpack/nodejs-buildpack-sle15-v1.7.30.1-1.1-46420c2a.zip:
-  size: 4882675
-  object_id: nodejs-buildpack-sle15-v1.7.30.1-1.1-46420c2a.zip
-  sha: sha256:46420c2ab39853c496e5471f1343bef83411b56b1a8ffdb74650b9899f9e9cf0
+nodejs-buildpack/nodejs-buildpack-sle15-v1.7.31.1-1.1-70f7e4b6.zip:
+  size: 4882725
+  object_id: nodejs-buildpack-sle15-v1.7.31.1-1.1-70f7e4b6.zip
+  sha: sha256:70f7e4b61e8970a3d44805db9f21f1938a4ea944b5f3ed8738a65c15af35b273
